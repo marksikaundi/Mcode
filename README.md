@@ -1,4 +1,4 @@
-## REACT MAKEUP APP
+## Documentation
 
 This is a code along project where we code live on streams an Makeup Website using the following:
 
